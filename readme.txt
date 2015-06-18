@@ -31,7 +31,15 @@ It allows you to:
 
 
 
-**Support link** - [Support](http://www.phoeniixx.com/support)
+**Support**
+
+**Support : Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
+
+**Skype** - phoeniixx.tarun
+
+**Ticket system** - [Click here](http://www.phoeniixx.com/support)
+
+**Website** - [phoeniixx.com](http://www.phoeniixx.com)
 
 
 == Installation ==
