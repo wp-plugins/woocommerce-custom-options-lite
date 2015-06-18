@@ -14,6 +14,7 @@ Custom options plugin is designed to give your Ecommerce website the space to ad
  Every Ecommerce Site is as unique as a fingerprint. So, one Ecommerce solution definitely cannot fit them all. This is where plugins come in to customize the Ecommerce game. Custom Options Plugin is one such plugin that can help you customize your product requirements for your users.
 
 It allows you to:
+
 1. Create Custom Input Field.
 2. Define the text limits for them
 3. Make those Custom Input Field conditional or compulsory for your users
@@ -22,6 +23,7 @@ It allows you to:
 
 
 **Custom Options Features:**
+
 1. You can chose Text Area or Text Field for your options based on the type of content you require from your custom fields.  This will guide your users in filling the right kind of data within the field.
 2. For every Category that you add you get the options to define the price, add the label and define the text limit for your users; giving you the complete flexibility to add the options that fit your needs.
 3. Some customized fields are not compulsory for users whereas some additions to product requirements are. This field gives you the ability to define whether the field is required or optional.
@@ -29,7 +31,7 @@ It allows you to:
 
 
 
-**Support link**   [Support](http://www.phoeniixx.com/support)
+**Support link** – [Support](http://www.phoeniixx.com/support)
 
 
 == Installation ==
