@@ -1,4 +1,4 @@
-=== Woocommerce Custom Options ===
+=== Woocommerce Custom Options lite===
 Contributors: Phoeniixx Team
 Tags: phoeniixx, woocommerce, woocommerce plugins, custom, custom options, ecommerce
 Requires at least: 4.0
@@ -31,7 +31,7 @@ It allows you to:
 
 
 
-**Support link** – [Support](http://www.phoeniixx.com/support)
+**Support link**-[Support](http://www.phoeniixx.com/support)
 
 
 == Installation ==
