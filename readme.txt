@@ -31,7 +31,7 @@ It allows you to:
 
 
 
-**Support link**-[Support](http://www.phoeniixx.com/support)
+**Support link** - [Support](http://www.phoeniixx.com/support)
 
 
 == Installation ==
