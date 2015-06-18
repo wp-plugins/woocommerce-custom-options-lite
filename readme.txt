@@ -37,7 +37,7 @@ It allows you to:
 == Installation ==
 
 1. Install [WordPress](https://wordpress.org/)
-2. Go to your WordPress admin panel, and then to Plugins. Click on "Add New” and then upload the zip file of the plugin using the "Upload Plugin” button you can find on top of the screen.
+2. Go to your WordPress admin panel, and then to Plugins. Click on "Add New" and then upload the zip file of the plugin using the "Upload Plugin" button you can find on top of the screen.
 3. For the plugin to work as it should, WooCommerce plugin has to be installed and enabled.
 
 == Frequently Asked Questions ==
