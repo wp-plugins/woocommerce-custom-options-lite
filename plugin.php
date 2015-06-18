@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WooCommerce custom Options lite
+Plugin Name: WooCommerce Product Custom Options Lite
 Plugin URI: http://www.phoeniixx.com
 Description: This plugin is designed to give your Ecommerce website the space to add customized options for your products.
 Version: 1.0
