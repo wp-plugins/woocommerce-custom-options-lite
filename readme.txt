@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Custom options plugin is designed to give your Ecommerce website the space to add customized options for your products.
+WooCommerce Product Custom Options Lite plugin is designed to give your Ecommerce website the space to add customized options for your products.
 
 == Description ==
 
