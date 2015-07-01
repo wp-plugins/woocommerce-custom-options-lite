@@ -18,7 +18,7 @@ class product_page_options_class {
 		
 	}
 	
-	public function display_product_options()
+	public function display_product_options($post_id = false)
 	{
 
 		global $product;
