@@ -230,13 +230,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 			return $other_data;
 		}
 		
-		/**
-		* add_cart_item function.
-		*
-		* @access public
-		* @param mixed $cart_item
-		* @return void
-		*/
+
 		function add_cart_item($cart_item_data) {
 		
 			if ( ! empty( $cart_item_data['options'] ) ) {
@@ -258,14 +252,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 			return $cart_item_data;
 		}
 
-		/**
-		* get_cart_item_from_session function.
-		*
-		* @access public
-		* @param mixed $cart_item
-		* @param mixed $values
-		* @return void
-		*/
+
 		function get_cart_item_from_session($cart_item_data, $values) {
 			
 			if ( ! empty( $values['options'] ) ) {
@@ -279,14 +266,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 		}
 
 		
-		/**
-		* order_item_meta function.
-		*
-		* @access public
-		* @param mixed $item_meta
-		* @param mixed $cart_item
-		* @return void
-		*/
+
 		function order_item_meta($item_id,$values) {
 					
 			if ( ! empty( $values['options'] ) ) {

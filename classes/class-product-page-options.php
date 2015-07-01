@@ -109,32 +109,6 @@ class product_page_options_class {
 		//'thousand_sep' => esc_attr( stripslashes( get_option( 'woocommerce_price_thousand_sep' ) ) )
 		);
 
-		/* if ( ! function_exists( 'get_woocommerce_price_format' ) ) {
-		$currency_pos = get_option( 'woocommerce_currency_pos' );
-
-		switch ( $currency_pos ) {
-			case 'left' :
-				$format = '%1$s%2$s';
-			break;
-			case 'right' :
-				$format = '%2$s%1$s';
-			break;
-			case 'left_space' :
-				$format = '%1$s&nbsp;%2$s';
-			break;
-			case 'right_space' :
-				$format = '%2$s&nbsp;%1$s';
-			break;
-		}
-
-			$params['currency_format'] = esc_attr( str_replace( array( '%1$s', '%2$s' ), array( '%s', '%v' ), $format ) );
-		
-		} else {
-		
-			$params['currency_format'] = esc_attr( str_replace( array( '%1$s', '%2$s' ), array( '%s', '%v' ), get_woocommerce_price_format() ) );
-		
-		} */
-
 		wp_localize_script( 'custom-options', 'woocommerce_custom_options_params', $params );
 		
 	}
