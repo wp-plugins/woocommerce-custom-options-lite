@@ -30,6 +30,19 @@ It allows you to:
 4. These added options will be visible on the cart page, checkout page, in the order summary as well as the Email the users will receive as a confirmation of their purchase.  
 
 
+**Premium Features**
+
+1. You could create 6 Custom Input Fields listed below **Text Field,Text Area,Check Box,Radio Button,File Upload,Dropdown**.
+2. It allows you to Add multiple fields within Input Field
+3. You could Define the text limits for Input Fields
+4. You could Make those Custom Input Field conditional or compulsory for your users
+5. You could even add the additional price for the customized additions to your product line
+6. This option is available for simple and variable products 
+7. You could write description for every option
+8. Various styling options are there as Description Styling, Label Styling & Heading Styling
+
+
+**Premium Version Link** : [Click here](http://www.phoeniixx.com/product/woocommerce-product-custom-options/)
 
 **Support**
 
