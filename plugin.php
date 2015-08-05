@@ -6,7 +6,7 @@ Description: This plugin is designed to give your Ecommerce website the space to
 Version: 1.1
 Text Domain: custom-options
 Domain Path: /i18n/languages/
-Author: Phoeniixx
+Author: phoeniixx
 Author URI: http://www.phoeniixx.com
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
