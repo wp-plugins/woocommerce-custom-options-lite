@@ -1,5 +1,5 @@
 === WooCommerce Product Custom Options Lite ===
-Contributors: Phoeniixx Team
+Contributors: Phoeniixx
 Tags: phoeniixx, woocommerce, woocommerce plugins, custom, product custom options, ecommerce ,WooCommerce Product Custom Options Lite,Product Custom Options Lite
 Requires at least: 4.0
 Tested up to: 4.2.2
