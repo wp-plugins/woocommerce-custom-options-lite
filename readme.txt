@@ -40,6 +40,8 @@ It allows you to:
 6. This option is available for simple and variable products 
 7. You could write description for every option
 8. Various styling options are there as Description Styling, Label Styling & Heading Styling
+9. You could add custom options price either as a flat price or, as a percentage of the Product's base price.
+
 
 
 **Premium Version Link** : [Click here](http://www.phoeniixx.com/product/woocommerce-product-custom-options/)
