@@ -2,8 +2,8 @@
 Contributors: phoeniixx
 Tags: phoeniixx, woocommerce, woocommerce plugins, custom, product custom options, ecommerce ,WooCommerce Product Custom Options Lite,Product Custom Options Lite
 Requires at least: 4.0
-Tested up to: 4.2.2
-Stable tag: 1.1
+Tested up to: 4.3
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
