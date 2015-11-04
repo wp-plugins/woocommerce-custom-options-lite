@@ -41,20 +41,21 @@ It allows you to:
 7. You could write description for every option
 8. Various styling options are there as Description Styling, Label Styling & Heading Styling
 9. You could add custom options price either as a flat price or, as a percentage of the Product's base price.
+10. You could show or hide 'Option Name' Label from your website.
 
 
 
-**Premium Version Link** : [Click here](http://www.phoeniixx.com/product/woocommerce-product-custom-options/)
+**Premium Version Link** : [Click here](http://www.phoeniixx.com/product/woocommerce-product-custom-options/?utm_source=Wordpress.org&utm_medium=CPC&utm_campaign=Wordpress.org)
 
 **Support**
 
-**Support : Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
+**Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
 
 **Skype** - phoeniixx.tarun
 
 **Ticket system** - [Click here](http://www.phoeniixx.com/support)
 
-**Website** - [phoeniixx.com](http://www.phoeniixx.com)
+**Website** - [http://www.phoeniixx.com/products/](http://www.phoeniixx.com/products/)
 
 
 == Installation ==
