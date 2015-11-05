@@ -3,7 +3,7 @@
 Plugin Name: Woocommerce Product Custom Options Lite
 Plugin URI: http://www.phoeniixx.com
 Description: This plugin is designed to give your Ecommerce website the space to add customized options for your products.
-Version: 1.1
+Version: 1.3
 Text Domain: custom-options
 Domain Path: /i18n/languages/
 Author: phoeniixx
